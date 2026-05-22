@@ -115,7 +115,7 @@ st.markdown("""
 
 # ─── Bilah Sisi ──────────────────────────────────────────────────────────────────
 with st.sidebar:
-    st.image("Asset/logoUNUD.png", width=80)
+    st.image("Asset/LogoUNUD.png", width=80)
     st.markdown("### ⚙️ Parameter Global")
 
     area_m2 = st.number_input(
