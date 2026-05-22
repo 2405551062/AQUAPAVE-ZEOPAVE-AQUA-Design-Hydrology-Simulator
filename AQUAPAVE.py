@@ -135,7 +135,7 @@ with st.sidebar:
     st.markdown("**📖 Tentang AQUAPAVE**")
     st.caption(
         "Platform optimasi digital untuk perkerasan berpori ZEOPAVE-AQUA. "
-        "Dikembangkan oleh Teknik Sipil, Universitas Udayana — Badung Festival Inovasi 2026."
+        "Dikembangkan oleh Teknik Sipil dan Teknologi Informasi, Universitas Udayana — Badung Festival Inovasi 2026."
     )
     st.caption(
         "Tim Peneliti: I Dewa Made Ari Praja Nugraha · "
